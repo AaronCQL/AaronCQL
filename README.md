@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AaronCQL/AaronCQL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <strong>Loading...</strong>
+<p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AaronCQL/AaronCQL/master/assets/Spinner-1s-200px.svg">
+  <img height="80" src="https://raw.githubusercontent.com/AaronCQL/AaronCQL/master/assets/Rolling-1s-200px.svg">
 </p>
