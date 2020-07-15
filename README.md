@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="./assets/Spinner-1s-200px.svg">
+  <img src="https://raw.githubusercontent.com/AaronCQL/AaronCQL/master/assets/Spinner-1s-200px.svg">
 </p>
